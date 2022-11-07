@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="admin">Admin</string>
+    <string name="staff">Staff</string>
+    <string name="about">About</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="comfirm_password">Comfirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="judul">Judul</string>
+    <string name="sample_brand">LOOKBOUTIQUESTORE</string>
+    <string name="_30">30</string>
+    <string name="sample_price">Rp.150.000</string>
+    <string name="nama">Nama</string>
+    <string name="id">ID</string>
+    <string name="harga">Harga</string>
+    <string name="stok">Stok</string>
+    <string name="brand">Brand</string>
+    <string name="gender">Gender</string>
+    <string name="tipe">Tipe</string>
+    <string name="wanita">Wanita</string>
+    <string name="pria">Pria</string>
+    <string name="atasan">Atasan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="laptop">Laptop</string>
+    <string name="smartphone">Phone</string>
+    <string name="keyboard">Keyboard</string>
+    <string name="mouse">Mouse</string>
+    <string name="kategori">Kategori</string>
+
+    <string-array name="gender_array">
+        <item>pria</item>
+        <item>wanita</item>
+        <item>unisex</item>
+    </string-array>
+
+    <string-array name="tipe_array">
+        <item>clothes</item>
+        <item>electronics</item>
+        <item>books</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="kategori_clothes_array">
+        <item>baju</item>
+        <item>formal</item>
+        <item>celana</item>
+        <item>sepatu</item>
+    </string-array>
+
+    <string-array name="kategori_books_array">
+        <item>books</item>
+    </string-array>
+
+    <string-array name="kategori_electronics_array">
+        <item>smartphone</item>
+        <item>laptop</item>
+        <item>keyboard</item>
+        <item>mouse</item>
+    </string-array>
+
+    <string-array name="kategori_other_array">
+        <item>other</item>
+    </string-array>
+</resources>
